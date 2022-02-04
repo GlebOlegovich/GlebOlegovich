@@ -10,6 +10,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GlebOlegovich&repo=api_final_yatube)](https://github.com/GlebOlegovich/api_final_yatube)
 
 # Connect with me:
+📍 Currently located: Moscow, Russia
+
 [<img align="left" alt="GlebOlegovich | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mailto]
 [<img align="left" alt="GlebOlegovich | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
@@ -20,18 +22,24 @@
 ## Languages and Tools:
 
  - Python
- - Django / Django Rest Framework
- - FastAPI
- - SQL (relational DBs)
+ - Python 3, Docker, gunicorn, nginx, Яндекс Облако(Ubuntu 18.04),
+Django 2.2 TLS, Django ORM, DRF (Django REST framework), PostgreSQL, SQLite3,
+GIT, unittest, pytest, ReDoc
+ - Django / Django Rest Framework / Django ORM
+ - SQL (relational DBs) - PostgreSQL, SQLite3
  - REST API
+ - Docker
+ - Gunicorn
+ - Nginx
+ - Яндекс Облако(Ubuntu 18.04)
  - Unit Testing
+ - ReDoc
  - Bash
  - Git
  - Visual Studio Code
- - PyCharm
  - iTerm2
 
 
 
-[mailto]: <i@godleib.ru>
+[mailto]: <mailto:i@godleib.ru>
 [instagram]: https://instagram.com/godleib
