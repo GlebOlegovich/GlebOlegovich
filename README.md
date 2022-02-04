@@ -23,9 +23,6 @@
 ## Languages and Tools:
 
  - Python
- - Python 3, Docker, gunicorn, nginx, Яндекс Облако(Ubuntu 18.04),
-Django 2.2 TLS, Django ORM, DRF (Django REST framework), PostgreSQL, SQLite3,
-GIT, unittest, pytest, ReDoc
  - Django / Django Rest Framework / Django ORM
  - SQL (relational DBs) - PostgreSQL, SQLite3
  - REST API
