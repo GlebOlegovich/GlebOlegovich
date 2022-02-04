@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Gleb (nickname: Godleib / Gudleifr)</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer+from+Russia"
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+from+Russia&center=true&width=380&height=50">
 </p>
 
 # Demo:
@@ -18,7 +17,7 @@
 <br />
 ### My Telegram:
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=@+Godleib"
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=@+Godleib&center=false&width=380&height=50">
 </p>
 
 ## Languages and Tools:
