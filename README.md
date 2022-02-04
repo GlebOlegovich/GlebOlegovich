@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Gleb (nickname: Godleib / Gudleifr)</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer+from+Russia)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer+from+Russia"
+</p>
 
 # Demo:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GlebOlegovich&repo=infra_sp2)](https://github.com/GlebOlegovich/infra_sp2)
@@ -16,8 +17,9 @@
 [<img align="left" alt="GlebOlegovich | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 ### My Telegram:
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=@+Godleib)](https://git.io/typing-svg)
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=@+Godleib"
+</p>
 
 ## Languages and Tools:
 
